@@ -17,6 +17,11 @@ intro:
 
 ## Title
 
+## About Me
+
+Name:응이판
+Department:인공지능학과
+
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
